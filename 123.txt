@@ -5,7 +5,6 @@ please creat list a:
 105 33
 106 3
 107 33
-108 33
 109 33
 0 0
 please creat list b:
@@ -28,10 +27,20 @@ the list a:
 
 The list b:
 101     33.000000
-102     33.000000
+102     33.000000:
+103     33.000000
 105     33.000000
 106     33.000000
 109     33.000000
 
-The delete list is:
-103     33.000000
+ifor in infdsaksdlkaslskda
+
+
+
+
+
+
+
+
+
+
