@@ -1,40 +1,5 @@
-please creat list a:
-101 33
-102 33
-103 33
-105 33
-106 3
-107 33
-109 33
-0 0
-please creat list b:
-101 33
-102 33
-105 33
-106 33
-109 33
-0 0
 
-the list a:
-101     33.000000
-102     33.000000
-103     33.000000
-105     33.000000
-106     3.000000
-107     33.000000
-108     33.000000
-109     33.000000
-
-The list b:
-101     33.000000
-102     33.000000:
-103     33.000000
-105     33.000000
-106     33.000000
-109     33.000000
-
-ifor in infdsaksdlkaslskda
-
+hello, you can download from conference website after three months, if you hava any probllem please contact us, thanks.
 
 
 
